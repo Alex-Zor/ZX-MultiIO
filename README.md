@@ -11,8 +11,8 @@ An expansion board for the ZX Spectrum clone that combines multiple I/O devices 
 
 The goal of the project is to provide a universal solution for data storage and accurate timekeeping on ZX PentaDiv NEMO computers
 
+https://t.me/pentadiv
 
 ![Top](img/top.jpg)
 ![Bottom](img/bottom.jpg)
 
-https://t.me/pentadiv
